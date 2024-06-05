@@ -1,7 +1,7 @@
-# <div align="center"><👋 Olá, Mundo! /></div>  
-  
-### <div align="center">I'm Marco, a full-stack developer 👨‍💻 with a passion about technology and learning new things! 🚀</div>  
-  
+# <div align="center"><👋 Olá, Mundo! /></div>
+
+### <div align="center">I'm Marco, a full-stack developer 👨‍💻 with a passion about technology and learning new things! 🚀</div>
+
 - 🌱 I’m currently learning React.  
   
 -  📖 I'm currently enrolled in university, pursuing a degree in Analysis and Systems Development.  
@@ -25,12 +25,8 @@
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="50" /></a>  
 </div>  
 
-<br/>  
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MarcoTWW&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
 ## Connect with me  
 <div align="center">
