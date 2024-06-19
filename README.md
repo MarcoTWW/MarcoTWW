@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React.  
   
--  📖 I'm currently enrolled in university, pursuing a degree in Analysis and Systems Development.  
+- 📖 I'm currently enrolled in university, pursuing a degree in Analysis and Systems Development.  
 
 - ⚡ Fun fact: I used to compete in console gaming tournaments!  
 
