@@ -2,7 +2,7 @@
 
 ### <div align="center">I'm Marco, a full-stack developer 👨‍💻 with a passion about technology and learning new things! 🚀</div>
 
-- 🌱 I’m currently learning React.  
+- 🌱 I’m currently learning/improving PHP.  
   
 - 📖 I'm currently enrolled in university, pursuing a degree in Analysis and Systems Development.  
 
